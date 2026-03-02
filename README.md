@@ -1,5 +1,5 @@
 # Image Classification CNN Model
-## This repository contains a Jupyter notebook implementing a Convolutional Neural Network (CNN) for binary image classification on a pizza vs. steak dataset. The model uses TensorFlow/Keras to achieve high validation accuracy through iterative improvements like data augmentation and architecture tweaks.
+This repository contains a Jupyter notebook implementing a Convolutional Neural Network (CNN) for binary image classification on a pizza vs. steak dataset. The model uses TensorFlow/Keras to achieve high validation accuracy through iterative improvements like data augmentation and architecture tweaks.
 
 ### Dataset
 The dataset consists of 1500 training images and 500 validation images across two classes: pizza and steak, sourced from directories like pizza_steak/train and pizza_steak/test. Images are resized to 224x224 pixels and normalized by rescaling pixel values to.
